@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+wfastcgi.py
+wfastcgi.egg-info/PKG-INFO
+wfastcgi.egg-info/SOURCES.txt
+wfastcgi.egg-info/dependency_links.txt
+wfastcgi.egg-info/entry_points.txt
+wfastcgi.egg-info/top_level.txt
